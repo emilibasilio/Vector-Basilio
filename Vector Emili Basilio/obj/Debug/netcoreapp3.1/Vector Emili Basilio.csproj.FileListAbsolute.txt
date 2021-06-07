@@ -1,0 +1,13 @@
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.exe
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.deps.json
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.runtimeconfig.json
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.runtimeconfig.dev.json
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.dll
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\bin\Debug\netcoreapp3.1\Vector Emili Basilio.pdb
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.csprojAssemblyReference.cache
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.AssemblyInfoInputs.cache
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.AssemblyInfo.cs
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.csproj.CoreCompileInputs.cache
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.dll
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.pdb
+C:\Users\flexg\Desktop\EMILI\Vector Emili Basilio\Vector Emili Basilio\obj\Debug\netcoreapp3.1\Vector Emili Basilio.genruntimeconfig.cache
