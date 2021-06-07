@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\flexg\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\flexg\\.nuget\\packages"
-    ]
-  }
-}
